@@ -1,0 +1,11 @@
+Comandos Git:
+
+git init
+
+git add .
+
+git status
+
+git commit -m "Descrição da anotação do commit"
+
+git push origin main
