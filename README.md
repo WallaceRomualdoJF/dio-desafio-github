@@ -3,7 +3,7 @@ Repositório criado para o Desafio de Projeto - Bootcamp Linux Experience
 
 ## Links Úteis
 
-[Git - Site](https://git-scm.com)
+[Git - Site Oficial](https://git-scm.com)
 
 [Git - Download](https://git-scm.com/downloads)
 
