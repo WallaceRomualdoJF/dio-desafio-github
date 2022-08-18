@@ -1,11 +1,24 @@
 Comandos Git:
 
-git init
+- Git init
 
-git add .
+Obs: O comando git init cria um novo repositório Git. Ele pode ser usado para converter um projeto não versionado existente em um repositório Git ou inicializar um novo repositório vazio.
 
-git status
 
-git commit -m "Descrição da anotação do commit"
+- Git add .
 
-git push origin main
+Obs: O comando git add adiciona uma mudança no diretório de trabalho à área de teste. Ele informa ao Git que você deseja incluir atualizações para um arquivo específico no próximo commit.
+
+
+- Git status
+
+Obs: O comando git status exibe o estado do diretório de trabalho e a área de teste. Ele permite que você veja quais alterações foram preparadas, quais não foram e quais arquivos não estão sendo rastreados pelo Git.
+
+
+- Git commit -m "Descrição da anotação do commit"
+
+Obs: Os commits são as principais unidades de bloco de construção de uma linha do tempo do projeto Git. Os commits podem ser considerados instantâneos ou marcos ao longo da linha do tempo de um projeto Git.
+
+- Git push origin main
+
+Obs: Com o git push origin master você diz ao git para enviar todos os commits no branch local atualmente verificado (ou seja, do seu sistema de arquivos) para o repositório remoto identificado pelo nome origin em seu branch remoto chamado master.
